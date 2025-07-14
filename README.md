@@ -12,3 +12,5 @@ Hello! I'm Luidy Andrade!
 <p align="left">
     <img src="https://skillicons.dev/icons?i=vscode,cs,dotnet,golang,docker,nodejs,typescript,git,github,aws,azure" />
 </p>
+
+<img src="https://raw.githubusercontent.com/Alexsander532/Alexsander532/output/snake.svg" alt="Snake animation" />
